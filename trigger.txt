@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.13 registry.cn-beijing.aliyuncs.com/aly-pub/dify-api:0.6.13
+langgenius/dify-api:0.6.15 registry.cn-beijing.aliyuncs.com/aly-pub/dify-api:0.6.15
