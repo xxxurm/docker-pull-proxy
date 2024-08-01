@@ -1,8 +1,1 @@
-langgenius/dify-api:0.6.15 registry.cn-beijing.aliyuncs.com/aly-pub/dify-api:0.6.15
-langgenius/dify-web:0.6.15 registry.cn-beijing.aliyuncs.com/aly-pub/dify-web:0.6.15
-langgenius/dify-sandbox:0.2.1 registry.cn-beijing.aliyuncs.com/aly-pub/dify-sandbox:0.2.1
-semitechnologies/weaviate:1.19.0 registry.cn-beijing.aliyuncs.com/aly-pub/weaviate:1.19.0
-postgres:15-alpine registry.cn-beijing.aliyuncs.com/aly-pub/postgres:15-alpine
-nginx:latest registry.cn-beijing.aliyuncs.com/aly-pub/nginx:latest
-redis:6-alpine registry.cn-beijing.aliyuncs.com/aly-pub/redis:6-alpine
-ubuntu/squid:latest  registry.cn-beijing.aliyuncs.com/aly-pub/squid:latest
+wiznote/wizserver@sha256:6f68b50e683230b9f6b756e9283043d57231468f4cc4d97550da9d03d9ffeb0f registry.cn-beijing.aliyuncs.com/aly-pub/wizserver:1.0.31
