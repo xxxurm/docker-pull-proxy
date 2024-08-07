@@ -1,1 +1,1 @@
-elasticsearch:7.4.2 registry.cn-hangzhou.aliyuncs.com/xxxurm/elasticsearch:7.4.2
+kibana:7.4.2 registry.cn-hangzhou.aliyuncs.com/xxxurm/kibana:7.4.2
