@@ -1,1 +1,1 @@
-alpine:3.6 registry.cn-hangzhou.aliyuncs.com/xxxurm/alpine:3.6
+elasticsearch:7.4.2 registry.cn-hangzhou.aliyuncs.com/xxxurm/elasticsearch:7.4.2
