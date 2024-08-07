@@ -1,1 +1,1 @@
-wiznote/wizserver@sha256:6f68b50e683230b9f6b756e9283043d57231468f4cc4d97550da9d03d9ffeb0f registry.cn-beijing.aliyuncs.com/aly-pub/wizserver:1.0.31
+alpine:3.6 registry.cn-hangzhou.aliyuncs.com/xxxurm/alpine:3.6
