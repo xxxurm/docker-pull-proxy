@@ -1,1 +1,1 @@
-kibana:7.4.2 registry.cn-hangzhou.aliyuncs.com/xxxurm/kibana:7.4.2
+fluentd:v1.16.2-debian-1.1 registry.cn-hangzhou.aliyuncs.com/xxxurm/fluentd:v1.16.2-debian-1.1
