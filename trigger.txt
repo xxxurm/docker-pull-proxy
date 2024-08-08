@@ -1,1 +1,1 @@
-prom/prometheus:v2.28.0 registry.cn-hangzhou.aliyuncs.com/xxxurm/prometheus:v2.28.0
+busybox:latest registry.cn-hangzhou.aliyuncs.com/xxxurm/busybox:latest
