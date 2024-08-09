@@ -1,1 +1,1 @@
-busybox:latest registry.cn-hangzhou.aliyuncs.com/xxxurm/busybox:latest
+prom/node-exporter:v1.4.0 registry.cn-hangzhou.aliyuncs.com/xxxurm/node-exporter:v1.4.0
