@@ -1,1 +1,1 @@
-kubesphere/kube-state-metrics:v2.3.0  registry.cn-hangzhou.aliyuncs.com/xxxurm/kube-state-metrics:v2.3.0
+grafana/grafana:7.5.9  registry.cn-hangzhou.aliyuncs.com/xxxurm/grafana:7.5.9
