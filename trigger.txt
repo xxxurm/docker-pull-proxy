@@ -1,1 +1,1 @@
-prom/node-exporter:v1.4.0 registry.cn-hangzhou.aliyuncs.com/xxxurm/node-exporter:v1.4.0
+kubesphere/kube-state-metrics:v2.12.0 registry.cn-hangzhou.aliyuncs.com/xxxurm/kube-state-metrics:v2.12.0
