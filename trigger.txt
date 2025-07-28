@@ -2,4 +2,5 @@
 #calico/cni:v3.24.5     registry.cn-hangzhou.aliyuncs.com/xxxurm/cni:v3.24.5
 #kubesphere/ks-installer:v3.4.1  registry.cn-hangzhou.aliyuncs.com/xxxurm/ks-installer:v3.4.1
 #kubesphere/ks-controller-manager:v3.3.2	registry.cn-hangzhou.aliyuncs.com/xxxurm/ks-controller-manager:v3.3.2
-mirrorgooglecontainers/defaultbackend-amd64:1.4	 registry.cn-hangzhou.aliyuncs.com/xxxurm/defaultbackend-amd64:1.4
+#mirrorgooglecontainers/defaultbackend-amd64:1.4	 registry.cn-hangzhou.aliyuncs.com/xxxurm/defaultbackend-amd64:1.4
+phpldapadmin/phpldapadmin:latest	registry.cn-hangzhou.aliyuncs.com/xxxurm/phpldapadmin:latest
